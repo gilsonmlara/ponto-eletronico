@@ -7,6 +7,7 @@ import javax.validation.constraints.NotEmpty;
 
 import org.hibernate.validator.constraints.Length;
 //projeto massa
+//Gilson retira esta bosta
 public class FuncionarioDto {
 	
 	private Long id;
